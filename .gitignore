@@ -30,6 +30,7 @@ wp-config.php
 /wp-content/uploads/
 
 #error
+wordpress/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V16/Resources/CustomerSkAdNetworkConversionValueSchema/SkAdNetworkConversionValueSchema/FineGrainedConversionValueMappings.php
 
 
 # Log files
